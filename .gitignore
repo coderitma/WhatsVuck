@@ -1,0 +1,6 @@
+.venv
+cookies
+node_modules
+chrs
+__pycache__
+test.*
