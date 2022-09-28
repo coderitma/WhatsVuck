@@ -15,7 +15,7 @@ WA_INPUT_CONVERSATION = "//div[@data-testid='conversation-compose-box-input']"
 WA_SEARCH_BOX = "//div[@data-testid='chat-list-search']"
 WA_CONTACT_LIST = "//span[contains(@title,'{phone}')]"
 WA_INPUT_BOX = "//div[@data-testid='conversation-compose-box-input']"
-WA_DELAY_TIME = 30
+WA_DELAY_TIME = 20
 WA_DISABLE_INFOBAR = "--disable-infobars"
 WA_ENABLE_COOKIE = "--enable-file-cookies"
 WA_SHIFT_ENTER = (Keys.SHIFT)+(Keys.ENTER)+(Keys.SHIFT)
