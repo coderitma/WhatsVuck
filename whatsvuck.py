@@ -124,6 +124,7 @@ def whatsvuck_send(phone, message):
   
 def whatsvuck_sending():
   log.info("whatsvuck send")
+  global driver
   global tasks
   while True:
     if tasks:
